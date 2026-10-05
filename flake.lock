@@ -3,11 +3,11 @@
     "mediatek-mt7927-dkms": {
       "flake": false,
       "locked": {
-        "lastModified": 1789666901,
-        "narHash": "sha256-apygKvayW+3TljjRTrGxriDcMju7njCdQHH3pRgHESo=",
+        "lastModified": 1791218873,
+        "narHash": "sha256-fI0NCBtJKS8xe7ahzh7FpbPXJtOcucNhV3V+T+lPxD4=",
         "owner": "jetm",
         "repo": "mediatek-mt7927-dkms",
-        "rev": "c1c3d78dc3922a6e7c794300ae5f45ced687c05b",
+        "rev": "7a026b50413940982fc7d229966ca2b2d4236cdc",
         "type": "github"
       },
       "original": {
